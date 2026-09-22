@@ -10,3 +10,4 @@ Students can use this space to share their thoughts on course content, instructo
 3. [Fatima Suleiman](https://github.com/faeema)
 4. [Aliyu sulaiman](https://github.com/A.fari)
 5. [Fatima Suleiman](https://github.com/faeema)
+6. [Julia](https://github.com/RibeiroJuh?tab=overview&from=2026-09-01&to=2026-09-22)
